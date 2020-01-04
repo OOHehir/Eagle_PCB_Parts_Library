@@ -1,10 +1,8 @@
 # Eagle PCB library parts
 
+Parts I've created for Cadsoft/Autodesk Eagle PCB creator. Untesed, please use with caution!
 
-Eagle library parts - Improvements welcomed!
-
-
-Some of the parts I've created for Cadsoft Eagle PCB creator. If you can improve on the parts please feel free to upload!
+If you can improve on the parts please feel free to upload!
 
 Thanks!
 
