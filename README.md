@@ -1,4 +1,6 @@
-# eagle_lib
+# Eagle PCB library parts
+
+
 Eagle library parts - Improvements welcomed!
 
 
