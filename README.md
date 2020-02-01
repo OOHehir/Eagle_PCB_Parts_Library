@@ -7,3 +7,7 @@ If you can improve on the parts please feel free to upload!
 Thanks!
 
 Leo
+
+1st Feb
+Footprint for LPC824 confirmed ok
+
